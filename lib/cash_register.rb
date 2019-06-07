@@ -16,7 +16,8 @@ attr_reader :discount
     @total = @total + cost * quantity
     
   end
-    
+  
+  #def
     
   
 
